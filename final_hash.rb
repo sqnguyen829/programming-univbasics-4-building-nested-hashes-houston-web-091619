@@ -66,10 +66,6 @@ monopoly =  {
 
 
 
-
-
-
-
 =begin
 
 # The final hash will look like this. Earlier methods will expect less as
